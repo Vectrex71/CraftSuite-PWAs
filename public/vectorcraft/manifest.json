@@ -1,6 +1,6 @@
 {
-  "name": "vectorcraft",
-  "short_name": "vectorcraft",
+  "name": "Vectorcraft",
+  "short_name": "Vectorcraft",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
