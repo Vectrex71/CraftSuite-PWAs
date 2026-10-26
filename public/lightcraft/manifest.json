@@ -1,6 +1,6 @@
 {
-  "name": "Lightraft",
-  "short_name": "Lightraft",
+  "name": "Lightcraft",
+  "short_name": "Lightcraft",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
